@@ -1,5 +1,5 @@
 # The Collatz Conjecture (in every language)
-For those who don't know what this is, [here's a video that explains it perfectly.](https://www.youtube.com/watch?v=094y1Z2wpJg) It explains how, through this algorithm, every number will boil down to `1`. And if you continue the process, you'll get stuck in a loop of `4, 2, 1, 4, 2, 1, 4, 2, 1`.
+For those who don't know what this is, [here's a video that explains it perfectly](https://www.youtube.com/watch?v=094y1Z2wpJg). It explains how, through this algorithm, every number will boil down to `1`. And if you continue the process, you'll get stuck in a loop of `4, 2, 1, 4, 2, 1, 4, 2, 1`.
 
 Here's how it works:
 1. Pick a random number (for this example, we'll use `10`)
